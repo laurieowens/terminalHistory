@@ -1,0 +1,530 @@
+Jakes-Air-3:desktop Jowens$ npm -i g n
+undefined
+Jakes-Air-3:desktop Jowens$ npm install -g n
+/usr/local/bin/n -> /usr/local/lib/node_modules/n/bin/n
++ n@2.1.8
+added 1 package in 1.21s
+Jakes-Air-3:desktop Jowens$ node -v
+v8.7.0
+Jakes-Air-3:desktop Jowens$ sudo n stable
+Password:
+Sorry, try again.
+Password:
+Sorry, try again.
+Password:
+Sorry, try again.
+sudo: 3 incorrect password attempts
+Jakes-Air-3:desktop Jowens$ sudo n stable
+Password:
+Sorry, try again.
+Password:
+
+     install : node-v9.0.0
+       mkdir : /usr/local/n/versions/node/9.0.0
+       fetch : https://nodejs.org/dist/v9.0.0/node-v9.0.0-darwin-x64.tar.gz
+######################################################################## 100.0%
+   installed : v9.0.0
+
+Jakes-Air-3:desktop Jowens$ node -v
+v9.0.0
+Jakes-Air-3:desktop Jowens$ history
+   14  cd ..
+   15  cd portfolio
+   16  git add .
+   17  git commit -m 'updates'
+   18  git push origin master
+   19  git push heroku master
+   20  cd /users/jowens/desktop/savethisgtstuff
+   21  node fib
+   22  node fib
+   23  node fib
+   24  node fib
+   25  ls -la
+   26  node fib
+   27  node fib.js
+   28  node fib.js
+   29  node fib.js
+   30  node fib.js
+   31  cd /users/jowens/desktop/portfolio
+   32  ls -la
+   33  cd asssets
+   34  cd assets
+   35  ls -la
+   36  cd css
+   37  ls -la
+   38  pwd
+   39  cd ..
+   40  cd images
+   41  cd ..
+   42  cd ...
+   43  cd ..
+   44  ls -la
+   45  pwd
+   46  cd ..
+   47  cd responsive-portfolio
+   48  git add .
+   49  cd /users/jowens/documents
+   50  cd 
+   51  cd
+   52  cd /users/jowens/desktop/resp
+   53  cd /users/jowens/desktop/resp
+   54  cd /users/jowens/desktop/responsive-portfolio/assets/images
+   55  ls -la
+   56  rm certImmunizationJMO.pdf
+   57  rm JMOimmunization1.pdf
+   58  ls -la
+   59  git add .
+   60  git commit -m 'updates'
+   61  cd ..
+   62  cd ..
+   63  cd ..
+   64  git clone https://github.com/laurieowens/farmersMarket.git
+   65  cd ..
+   66  cd desktop 
+   67  cd finalproject
+   68  ls -la
+   69  cd digitalPricing
+   70  ls -la
+   71  cp *.js /users/jowens/desktop/farmersmarket
+   72  cd ..
+   73  cd..
+   74  cd ..
+   75  cd farmersmarket
+   76  ls -la
+   77  rm serverLBO1.js
+   78  rm serverold.js
+   79  rm serverolder.js
+   80  git add .
+   81  git commit -m 'wip fm'
+   82  git push origin master
+   83  mkdir app config controllers models public routes test
+   84  ls -la
+   85  git add .
+   86  git commit -m 'updates'
+   87  git add .
+   88  git commit -m 'updates'
+   89  git push origin master
+   90  cd ..
+   91  mkdir graham
+   92  mkdir keo
+   93  cd keo
+   94  git clone git@github.com:kowens32/Hangman-Game-.git
+   95  git pull origin master
+   96  ls -la
+   97  cd hangman-game
+   98  cd hangman-game-
+   99  git pull origin master
+  100  cd keo
+  101  cd users/jowes/desktop/keo
+  102  cd users/jowens/desktop/keo
+  103  cd users
+  104  ls -la
+  105  cd desktop
+  106  cd keo
+  107  git clone git@github.com:kowens32/week-4-game.git
+  108  cd week-4-game
+  109  ls -la
+  110  cd ..
+  111  cd keo
+  112  cd ..
+  113  cd keo
+  114  ls -la
+  115  mkdir starWars
+  116  ls -la
+  117  cd starwars
+  118  mkdir assets css images
+  119  cd ..
+  120  cd week-4-game
+  121  ls -la
+  122  cd assets
+  123  ls -la
+  124  cd ..
+  125  cd ..
+  126  cd keo
+  127  cd starwars
+  128  ls -la
+  129  rm css
+  130  rm -r css
+  131  rm -r images
+  132  cd assets
+  133  mkdir css
+  134  mkdir images
+  135  ls -la
+  136  mkdir javascript
+  137  cd /users/desktop/jowens
+  138  cd /users/jowens/desktop
+  139  cd keo
+  140  ls -la
+  141  mkdir triviagame
+  142  cd week-4-game
+  143  ls -la
+  144  cd ..
+  145  cd triviagame
+  146  git clone git@github.com:kowens32/TriviaGame-.git
+  147  ls -la
+  148  cd ..
+  149  rm -r triviagame-
+  150  cd triviagame
+  151  rm -r triviagame-
+  152  ls -la
+  153  cd ,,
+  154  cd ..
+  155  rm -r triviagame
+  156  ls -la
+  157  git clone git@github.com:kowens32/TriviaGame-.git
+  158  ls -la
+  159  cd triviagame-
+  160  ls -la
+  161  cd assets
+  162  ls -la
+  163  cd javascript
+  164  ls -la
+  165  cd ..
+  166  cd ..
+  167  ls -la
+  168  git pull origin master
+  169  git stash
+  170  git pull origin master
+  171  git pull origin master
+  172  git pull origin master
+  173  git stash
+  174  git pull origin master
+  175  git pull origin master
+  176  git pull origin master
+  177  git pull origin master
+  178  git pull origin master
+  179  git stash
+  180  git pull origin master
+  181  git pull origin master
+  182  git pull origin master
+  183  git status
+  184  git pull origin master
+  185  git stash
+  186  git pull origin master
+  187  git pull origin master
+  188  git stash
+  189  git pull origin master
+  190  git pull origin master
+  191  cd ..
+  192  cd ..
+  193  cd triviagame
+  194  ls -la
+  195  git add .
+  196  git commit -m 'updates'
+  197  git push origin master
+  198  cd /users/jowens/desktop
+  199  cd 01-17-class-content
+  200  ls -la
+  201  cd 23-three programming languages
+  202  cd 23-Three Programming Languages
+  203  cd 15-sequelize
+  204  pwd
+  205  cd ..
+  206  cd 23-three
+  207  cd 23-threeprogramminglanguages
+  208  node -v
+  209  cd ..
+  210  cd liri
+  211  ls -la
+  212  cd liri-node-app
+  213  node liri
+  214  node liri mytweets
+  215  node liri 'mytweets'
+  216  node liri movie-this elvis
+  217  node liri spotify-this-song maybeIdk
+  218  node liri spotify-this-song 'MaybeIDK'
+  219  node liri spotify-this-song sorry
+  220  node liri my-tweets
+  221  node liri movie-this elvis
+  222  node liri movie-this elvis
+  223  node liri movie-this 'cinderella'
+  224  node liri do-what-it-says 'Maybe IDK'
+  225  node liri spotifier 'Maybe IDK'
+  226  node liri movie-this 'Elvis'
+  227  node liri movie-this 'Elvis'
+  228  node liri do-what-it-says 'Maybe IDK'
+  229  node liri movie-this 'Elvis'
+  230  node liri movie-this 'Elvis'
+  231  node liri movie-this 'Elvis'
+  232  node liri movie-this 'Elvis'
+  233  node liri movie-this 'Elvis'
+  234  node liri my-tweets
+  235  node movie-this 'cinderella'
+  236  node liri movie-this 'cinderella'
+  237  node liri movie-this 
+  238  node liri do-what-it-says
+  239  node liri do-what-it-says
+  240  node liri do-what-it-says
+  241  node liri my-tweets
+  242  npm install spotify
+  243  node liri do-what-it-says
+  244  node liri spotifier 'Maybe IDK'
+  245  node liri movie-this 'elvis'
+  246  node liri movie-this 'elvis'
+  247  npm install request
+  248  node liri movie-this 'elvis'
+  249  node liri movie-this 'elvis'
+  250  node liri movie-this 'elvis'
+  251  node liri movie-this 'cinderella'
+  252  node liri movie-this cinderella
+  253  node liri movie-this cinderella
+  254  node liri movie-this cinderella
+  255  node liri movie-this cinderella
+  256  node liri movie-this cinderella
+  257  node liri movie-this cinderella
+  258  node liri movie-this cinderella
+  259  node liri movie-this cinderella
+  260  node liri movie-this cinderella
+  261  open
+  262  cd ..
+  263  node liri my-tweets
+  264  cd lirir-node-app
+  265  cd liri-node-app
+  266  node liri my-tweets
+  267  node liri movie-this cinderella
+  268  node liri movie-this cinderella
+  269  cd ..
+  270  ls -la
+  271  cd farmersmarket
+  272  ls -la
+  273  cd app
+  274  ls -la
+  275  cd config
+  276  cd ..
+  277  cd config
+  278  ls -la
+  279  open config.json
+  280  cd app
+  281  mkdir app
+  282  cd app
+  283  mkdir components pages
+  284  cd components
+  285  mkdir layout
+  286  cd ..
+  287  ls -la
+  288  cd ..
+  289  ls -la
+  290  pwd
+  291  ls -la
+  292  rm -r app
+  293  ls -la
+  294  cd ..
+  295  ls -la
+  296  mkdir app
+  297  cd app
+  298  ls -la
+  299  mkdir components pages
+  300  cd components
+  301  mkdir layout
+  302  cd ..
+  303  cd ..
+  304  ls -la
+  305  cd public
+  306  mkdir assets
+  307  cd ..
+  308  git add .
+  309  git commit -m 'initial setup'
+  310  git push origin master
+  311  git pull origin master
+  312  ls -la
+  313  cd app
+  314  ls -la
+  315  cd components
+  316  ls -la
+  317  cd ..
+  318  cd ..
+  319  npm init
+  320  npm -S express body-parser react react-dom
+  321  npm i -S express body-parser react react-dom
+  322  npm i -S react-router material-ui 
+  323  npm i -S react-tap-event-plugin validator
+  324  npm i -S-dev webpack babel-core
+  325  npm i -S react
+  326  npm i -S-dev webpack babel-loader 
+  327  git add .
+  328  git commit -m 'initial setup'
+  329  cp /users/jowens/desktop/finalproject/digitalpricing/.gitignore .
+  330  git add .
+  331  git commit -m 'initial setup'
+  332  git add .
+  333  git commit -m 'initial setup'
+  334  git push origin master
+  335  ope .gitignore
+  336  open .gitignore
+  337  git pull origin master
+  338  git rm -r --cached node_modules
+  339  git commit -m 'Remove the now ignored directory node_modules'
+  340  git push origin master
+  341  git add .
+  342  git commit -m 'reload initial files w/o node modules'
+  343  cd app
+  344  ls -la
+  345  cd ..
+  346  open package.json
+  347  npm i -S babel-preset-react
+  348  git add .
+  349  git commit -m 'add babel-preser-react'
+  350  git push origin master
+  351  ls -la
+  352  cd app
+  353  ls -la
+  354  cd components
+  355  ls -la
+  356  cd layout
+  357  ls -la
+  358  touch footer.js
+  359  cd ..
+  360  cd ..
+  361  cd..
+  362  cd ..
+  363  pwd
+  364  ls -la
+  365  git add .
+  366  git commit -m 'all of these'
+  367  git push origin master
+  368  cd config
+  369  ls -la
+  370  open config.json
+  371  git status
+  372  pwd
+  373  cd ..
+  374  ls -la
+  375  git pull origin master
+  376  ls -la
+  377  cd app
+  378  ls -la
+  379  cd ..
+  380  cd controllers
+  381  ls -la
+  382  cd ..
+  383  cd ..
+  384  cd project1
+  385  ls -la
+  386  mkdir forkedproject1
+  387  cd forkedproject1
+  388  git clone https://github.com/laurieowens/project1.git
+  389  cd ..
+  390  mkdir afroidproject1
+  391  cd afroidproject1
+  392  git clone git@github.com:Afroid/project1.git
+  393  cd ..
+  394  cd ..
+  395  cd /users/jowens/desktop
+  396  cd site
+  397  ls -la
+  398  cd projectlovedeserved
+  399  ng serve
+  400  history
+  401  cd /users/jowens/desktop
+  402  cd liri-node-app
+  403  node liri my-tweets
+  404  cd /users/jowens/desktop
+  405  ls -la
+  406  cd ..
+  407  cd desktop
+  408  cd /useres/jowens/desktop
+  409  cd /users/jowens/desktop
+  410  ls -la
+  411  cd bamazon
+  412  npm bamazon
+  413  node bamazon
+  414  node bamazoncustomer
+  415  node bamazoncustomer
+  416  node bamazoncustomer
+  417  node -v
+  418  npm -v
+  419  npm i -g npm
+  420  npm i -g npm
+  421  sudo npm i -g npm
+  422  cd /users/jowens/desktop/bamazon
+  423  node bamazoncustomer
+  424  cd /users/jowens/desktop
+  425  git clone git@github.com:kowens32/constructor.git
+  426  cd constructor
+  427  ls -la
+  428  npm install
+  429  node constructor
+  430  node constructor.js
+  431  git pull origin master
+  432  node constructor.js
+  433  clear
+  434  node constructor
+  435  a
+  436  clear
+  437  ls -la
+  438  mkdir jy portfolio
+  439  ls -la
+  440  cd /users/jowens/desktop/bamazon
+  441  node bamazoncustomer
+  442  cd ..
+  443  cd constructor
+  444  git pull origin master
+  445  node constructor
+  446  node constructor
+  447  node constructor
+  448  node constructor
+  449  node constructor
+  450  clear
+  451  clear
+  452  node constructor
+  453  node constructor
+  454  node constructor
+  455  node constructor
+  456  node constructor
+  457  node constructor
+  458  node constructor
+  459  node constructor
+  460  node constructor
+  461  node constructor
+  462  node constructor
+  463  clear
+  464  clear
+  465  node constructor
+  466  clear
+  467  node constructor
+  468  node constructor
+  469  node constructor
+  470  node constructor
+  471  node constructor
+  472  npm install
+  473  node constructor
+  474  node constructor
+  475  node constructor
+  476  clear
+  477  clear
+  478  node constructor
+  479  node constructor
+  480  node constructor
+  481  node constructor
+  482  node constructor
+  483  node constructor
+  484  node constructor
+  485  node constructor
+  486  node constructor
+  487  node constructor
+  488  node constructor
+  489  node constructor
+  490  node constructor
+  491  node constructor
+  492  node constructor
+  493  node constructor
+  494  node constructor
+  495  node constructor
+  496  node constructor
+  497  node constructor
+  498  1
+  499  node constructor
+  500  cd /users/jowens/desktop
+  501  ls -la
+  502  node -v
+  503  brew update
+  504  node -v
+  505  brew update
+  506  history
+  507  npm -i g n
+  508  npm install -g n
+  509  node -v
+  510  sudo n stable
+  511  sudo n stable
+  512  node -v
+  513  history
